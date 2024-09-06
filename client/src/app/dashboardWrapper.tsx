@@ -4,6 +4,7 @@ import React, { useEffect } from "react";
 import StoreProvider, { useAppSelector } from "./redux";
 import Sidebar from "./[components]/Sidebar";
 import Navbar from "./[components]/Navbar";
+import { AlertTriangle } from "lucide-react";
 
 const DashboardLayout = ({ children }: { children: React.ReactNode }) => {
   const isSidebarCollapsed = useAppSelector(
@@ -31,6 +32,13 @@ const DashboardLayout = ({ children }: { children: React.ReactNode }) => {
           isSidebarCollapsed ? "md:pl-24" : "md:pl-72"
         }`}
       >
+        <div className="flex items-center p-4 bg-red-100 border border-red-400 text-red-700 rounded">
+          <AlertTriangle className="w-6 h-6 mr-2" />
+          <span>
+            My AWS tier is expired, and there are some issues with RDS. Thanks
+            for visiting my project.
+          </span>
+        </div>
         <Navbar />
         {children}
       </main>

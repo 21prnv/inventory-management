@@ -32,11 +32,11 @@ const DashboardLayout = ({ children }: { children: React.ReactNode }) => {
           isSidebarCollapsed ? "md:pl-24" : "md:pl-72"
         }`}
       >
-        <div className="flex items-center p-4 bg-red-100 border border-red-400 text-red-700 rounded">
+        <div className="flex items-center p-3 mb-4 bg-red-100 border border-red-400 text-red-700 rounded">
           <AlertTriangle className="w-6 h-6 mr-2" />
           <span>
-            My AWS tier is expired, and there are some issues with RDS. Thanks
-            for visiting my project.
+            Due to some issues with RDS, the data is currently not showing.
+            Thanks for visiting my project.
           </span>
         </div>
         <Navbar />

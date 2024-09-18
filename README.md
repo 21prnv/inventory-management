@@ -8,7 +8,9 @@ Check out the live application here: [Live Link](https://main.dsxac2zavypgo.ampl
 
 ## Video Demo
 
-Watch a screen recording of the application here:[Video](https://res.cloudinary.com/dqi42qbcr/image/upload/v1726637582/jmz5f78mezoamfalykfm.gif)
+Watch a screen recording of the application here: 
+![ezgif-2-10910c7fe5](https://github.com/user-attachments/assets/1d4b470e-8ba6-472c-971a-f5080bb0246d)
+
 
 ## Features
 

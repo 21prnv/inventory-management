@@ -4,11 +4,11 @@ This is a web-based inventory management system built using **Next.js**, **Node.
 
 ## Live Demo
 
-Check out the live application here: [Live Link]([https://your-live-app-url.com](https://main.dsxac2zavypgo.amplifyapp.com/))
+Check out the live application here: [Live Link](https://main.dsxac2zavypgo.amplifyapp.com/)
 
 ## Video Demo
 
-Watch a screen recording of the application here: [Video Link]([https://your-video-link.com](https://res.cloudinary.com/dqi42qbcr/image/upload/v1726637582/jmz5f78mezoamfalykfm.gif))
+Watch a screen recording of the application here:[Video](https://res.cloudinary.com/dqi42qbcr/image/upload/v1726637582/jmz5f78mezoamfalykfm.gif)
 
 ## Features
 

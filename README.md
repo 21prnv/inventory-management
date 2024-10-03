@@ -1,6 +1,6 @@
 # Inventory Management Web App
 
-This is a web-based inventory management system built using **Next.js**, **Node.js**, **PostgreSQL**, **Tailwind CSS**, **Redux**, and **TypeScript**. It allows users to manage inventory, track stock levels, and view detailed statistics and graphs of items in real-time. The app is hosted on **AWS EC2**, with data stored in **RDS** and assets served through **S3**.
+This is a web-based inventory management system built using **Next.js**, **Node.js**, **PostgreSQL**, **Redux**, **Tailwind CSS** and **TypeScript**. It allows users to manage inventory, track stock levels, and view detailed statistics and graphs of items in real-time. The app is hosted on **AWS EC2**, with data stored in **RDS** and assets served through **S3**.
 
 ## Live Demo
 
@@ -8,7 +8,7 @@ Check out the live application here: [Live Link](https://main.dsxac2zavypgo.ampl
 
 ## Video Demo
 
-Watch a screen recording of the application here: 
+Watch the screen recording of the application here: 
 ![ezgif-2-10910c7fe5](https://github.com/user-attachments/assets/1d4b470e-8ba6-472c-971a-f5080bb0246d)
 
 
@@ -24,7 +24,7 @@ Watch a screen recording of the application here:
 
 ## Tech Stack
 
-- **Frontend**: Next.js, Tailwind CSS
+- **Frontend**: Tailwind CSS, Next.js
 - **State Management**: Redux
 - **Backend**: Node.js, PostgreSQL
 - **Database**: AWS RDS (PostgreSQL)
